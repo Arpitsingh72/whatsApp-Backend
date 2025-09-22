@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1758499552701,
+        "senderId": 1758453854404,
+        "receiverId": 1,
+        "text": "dfdfd",
+        "timestamp": "2025-09-22T00:05:52.701Z"
+    },
+    {
+        "id": 1758499646143,
+        "senderId": 1758453854404,
+        "receiverId": 1758499614165,
+        "text": "hyy",
+        "timestamp": "2025-09-22T00:07:26.143Z"
+    },
+    {
+        "id": 1758554041215,
+        "senderId": 1758499614165,
+        "receiverId": 1758453854404,
+        "text": "hreloo",
+        "timestamp": "2025-09-22T15:14:01.215Z"
+    },
+    {
+        "id": 1758554047699,
+        "senderId": 1758499614165,
+        "receiverId": 1758453854404,
+        "text": "helooooo",
+        "timestamp": "2025-09-22T15:14:07.699Z"
+    },
+    {
+        "id": 1758555489595,
+        "senderId": 1758453854404,
+        "receiverId": 1758499614165,
+        "text": "jf;sdjflkdas",
+        "timestamp": "2025-09-22T15:38:09.595Z"
+    }
+]
